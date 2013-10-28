@@ -4,6 +4,8 @@ package com.passphrasegenerator;
  * 
  * RFC1751
  * http://www.giwersworld.org/computers/linux/common-words.phtml (used 5 or more letter words only)
+ * 
+ * I made this to clean up other word lists that may be added http://jsfiddle.net/Mh79w/ 
  */
 
 public class WordList {
